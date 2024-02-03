@@ -41,14 +41,23 @@ Implement following functionaility using NodeJS/Java as middleware
 
 Screens
 
-1)Register
+
 ![register](https://github.com/Neeraj-Joshi4454/mobigic_task/assets/84903276/db2a6d69-bb72-4b48-9b2f-c3d63f5d8c4f)
 
-2)Login
+1)Register
+
+
 ![login](https://github.com/Neeraj-Joshi4454/mobigic_task/assets/84903276/8f9814c3-e963-4183-8394-64d561f5608e)
 
-3)Upload File
-![uploadFile](https://github.com/Neeraj-Joshi4454/mobigic_task/assets/84903276/c86c8e63-fa0d-4e24-b000-7cb193cc1200)
+2)Login
 
-4)access Denied
+![uploadFile](https://github.com/Neeraj-Joshi4454/mobigic_task/assets/84903276/c86c8e63-fa0d-4e24-b000-7cb193cc1200)
+3)Upload File
+
+
+![Filelist](https://github.com/Neeraj-Joshi4454/mobigic_task/assets/84903276/84474984-a491-4133-a88e-6ecd3c375f25)
+
+4)file list
+
 ![accessDenied](https://github.com/Neeraj-Joshi4454/mobigic_task/assets/84903276/6953843c-0dd9-432b-bc2f-64b0795a7648)
+5)access Denied
